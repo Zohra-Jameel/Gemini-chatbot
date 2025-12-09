@@ -19,13 +19,8 @@ Colab notebook for experiments & teaching
 
 📂 Repository Structure
 gemini-chatbot/
-│
-├── app/                     # Streamlit application
-│   ├── mychatbot.py 
-│
-├── notebooks/               # Google Colab notebook version
-│   └── gemini_chatbot_colab.ipynb
-│
+├── mychatbot.py # Streamlit application
+└── mychatbot.ipynb  # Google Colab notebook version
 ├── README.md
 ├── requirements.txt
 

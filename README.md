@@ -7,6 +7,7 @@ This repository contains two versions of a Gemini-powered chatbot:
 
 ✔ 1. A Streamlit App (production-ready chatbot)
 ✔ 2. A Google Colab Notebook (tutorial/demo version)
+
 🚀 Features
 
 Chat with Google's Gemini 2.5 models
@@ -18,6 +19,7 @@ Environment-based API key loading
 Colab notebook for experiments & teaching
 
 📂 Repository Structure
+
 gemini-chatbot/
 ├── mychatbot.py # Streamlit application
 └── mychatbot.ipynb  # Google Colab notebook version

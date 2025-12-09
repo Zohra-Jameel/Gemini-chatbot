@@ -37,6 +37,7 @@ Set your GEMINI API key
 
 from google AI studio
 Start the app
+
 streamlit run mychatbot.py
 
 🧪 Running the Colab Notebook

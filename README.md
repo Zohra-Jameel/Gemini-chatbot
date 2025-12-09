@@ -28,7 +28,9 @@ gemini-chatbot/
 
 
 ▶️ Running the Streamlit App
+
 Install dependencies
+
 pip install -r requirements.txt
 
 Set your GEMINI API key

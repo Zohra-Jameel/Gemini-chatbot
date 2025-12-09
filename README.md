@@ -35,13 +35,7 @@ pip install -r requirements.txt
 
 Set your GEMINI API key
 
-Either as an environment variable:
-
-export GEMINI_API_KEY="your_api_key_here"
-
-
-or using a .env file (optional).
-
+from google AI studio
 Start the app
 streamlit run mychatbot.py
 

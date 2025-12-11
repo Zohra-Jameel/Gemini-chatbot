@@ -15,14 +15,23 @@ Clean and beginner-friendly structure
 Repository structure:
 
 gemini-chatbot/
+
 │
+
 ├── notebook/                 # Jupyter/Colab notebooks
+
 │   └── mychatbot.ipynb       # Google Colab notebook version
+
 │
+
 ├── src/                      # Source code directory
+
 │   └── mychatbot.py          # Main Streamlit application
+
 │
+
 ├── README.md                 # Project documentation
+
 └── requirements.txt          # Python dependencies
 
 Running the Streamlit App:
